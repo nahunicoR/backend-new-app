@@ -1,0 +1,6 @@
+export * from './starwars.characters'
+export * from './starwars.movies'
+export * from './starwars.planets'
+export * from './starwars.vehicles'
+export * from './starwars.characters'
+export * from './starwars.species'
